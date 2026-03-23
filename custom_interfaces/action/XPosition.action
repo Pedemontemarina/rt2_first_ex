@@ -1,0 +1,8 @@
+# Goal — cosa manda il client
+float64 x_target
+---
+# Result — cosa manda il server quando finisce
+bool success
+---
+# Feedback — aggiornamenti durante l'esecuzione
+float64 current_x
